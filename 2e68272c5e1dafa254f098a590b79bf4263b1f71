@@ -1,0 +1,1 @@
+{"jobID":"aa437213-189e-de20-58ce-58e3363e3a86","spec":{"type":"policy","cause":{"Message":"","User":"Ahmed Alhameedawi \u003cahmed.russan@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
